@@ -16,21 +16,23 @@
 <h3 align="left">Project info:</h3>
 
 <h4 align="left">Turing College projects:</h4>
-- 25kEuropeanFootballMatches_Dataset
+- HomeCredit_Dataset (Machine learning oriented)
 
-- LendingClub_Dataset
+- LendingClub_Dataset (Machine learning oriented)
 
-- HomeCredit_Dataset
+- Stroke_Prediction (Machine learning oriented)
 
-- Travel_Insurance_Prediction
+- Travel_Insurance_Prediction (Machine learning oriented)
 
-- Stroke_Prediction
+- 25kEuropeanFootballMatches_Dataset (Data analysis oriented)
 
-- RedWineQuality_Dataset
+- RedWineQuality_Dataset (Data analysis oriented)
 
-- COVID19_Dataset
+- COVID19_Dataset (Data analysis oriented)
 
 <h4 align="left">Personal projects:</h4>
+- pymot - multi object tracking package repository (Not maintained)
+- 
 
 
 <h3 align="left">Connect with me:</h3>

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sirutavicius.simas@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/simas-sirutavi%C4%8Dius-543741218/](https://www.linkedin.com/in/simas-sirutavi%C4%8Dius-543741218/)
+- 📄 Know about my experiences [https://linkedin.com/in/simas-sirutavičius-543741218](https://linkedin.com/in/simas-sirutavičius-543741218)
 
 - ⚡ Fun fact **I like memes, sci-fy and building robots**
 
@@ -24,7 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsiru&show_icons=true&locale=en&layout=compact" alt="simsiru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simsiru&show_icons=true&locale=en" alt="simsiru" /></p>
-
 
 
 

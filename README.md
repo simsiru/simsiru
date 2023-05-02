@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/simas-sirutavičius-543741218](https://linkedin.com/in/simas-sirutavičius-543741218)
 
-- ⚡ Fun fact **I like memes, sci-fi and building robots**
+- ⚡ Fun fact **I like memes, Sci-Fi and building robots**
 
 <h3 align="left">Project info:</h3>
 

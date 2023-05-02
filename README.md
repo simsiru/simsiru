@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simas Sirutavičius</h1>
 <h3 align="center">I realy like machine learning and python</h3>
 
-<p align="center"><img align="center" src="images/gif1.gif" alt="simsiru" /></p>
+<p align="center"><img align="center" src="images/blackhole.gif" alt="simsiru" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsiru&label=Profile%20views&color=00ff9d&style=flat" alt="simsiru" /> </p>
 

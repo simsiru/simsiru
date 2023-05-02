@@ -32,7 +32,10 @@
 
 <h4 align="left">Personal projects:</h4>
 - pymot - multi object tracking package repository (Not maintained)
-- 
+
+- face-recognition - face recognition system with pymot (Not maintained)
+
+- license-plate-recognition - license plate recognition system with pymot (Not maintained)
 
 
 <h3 align="left">Connect with me:</h3>

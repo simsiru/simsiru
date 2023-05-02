@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Simas Sirutavičius</h1>
-<h3 align="center">I realy like machine learning and python</h3>
+<img align="center" src="images/tc_banner.png" alt="simsiru" />
 
-<p align="center"><img align="center" src="images/blackhole.gif" alt="simsiru" /></p>
+<h1 align="center">Hi 👋, I'm Simas Sirutavičius</h1>
+<h3 align="center">I like machine learning and python</h3>
+
+<img align="right" src="images/blackhole.gif" alt="simsiru" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsiru&label=Profile%20views&color=00ff9d&style=flat" alt="simsiru" /> </p>
 
@@ -52,9 +54,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simsiru&show_icons=true&theme=synthwave&locale=en" alt="simsiru" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=simsiru&show_icons=true&theme=synthwave&locale=en" alt="simsiru" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsiru&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="simsiru" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsiru&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="simsiru" />
 
 
 

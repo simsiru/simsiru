@@ -16,7 +16,19 @@
 <h3 align="left">Project info:</h3>
 
 <h4 align="left">Turing College projects:</h4>
+- 25kEuropeanFootballMatches_Dataset
 
+- LendingClub_Dataset
+
+- HomeCredit_Dataset
+
+- Travel_Insurance_Prediction
+
+- Stroke_Prediction
+
+- RedWineQuality_Dataset
+
+- COVID19_Dataset
 
 <h4 align="left">Personal projects:</h4>
 

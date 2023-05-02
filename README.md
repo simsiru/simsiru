@@ -13,6 +13,14 @@
 
 - ⚡ Fun fact **I like memes, sci-fy and building robots**
 
+<h3 align="left">Project info:</h3>
+
+<h4 align="left">Turing College projects:</h4>
+
+
+<h4 align="left">Personal projects:</h4>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simas-sirutavičius-543741218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simas-sirutavičius-543741218" height="30" width="40" /></a>
@@ -26,6 +34,10 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simsiru&show_icons=true&theme=synthwave&locale=en" alt="simsiru" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsiru&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="simsiru" /></p>
+
+
+
+
 
 
 

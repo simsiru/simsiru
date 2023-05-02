@@ -16,6 +16,7 @@
 <h3 align="left">Project info:</h3>
 
 <h4 align="left">Turing College projects:</h4>
+
 - HomeCredit_Dataset (Machine learning oriented)
 
 - LendingClub_Dataset (Machine learning oriented)
@@ -31,6 +32,7 @@
 - COVID19_Dataset (Data analysis oriented)
 
 <h4 align="left">Personal projects:</h4>
+
 - pymot - multi object tracking package repository (Not maintained)
 
 - face-recognition - face recognition system with pymot (Not maintained)

@@ -21,6 +21,12 @@
 
 <h4 align="left">Turing College projects:</h4>
 
+- Mushroom_Classification (Machine learning/Deep learning oriented)
+
+- Toxic_Comment_Classification (Machine learning/Deep learning oriented)
+
+- Gender_Age_Prediction (Machine learning/Deep learning oriented)
+
 - HomeCredit_Dataset (Machine learning oriented)
 
 - LendingClub_Dataset (Machine learning oriented)

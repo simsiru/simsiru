@@ -21,6 +21,8 @@
 
 <h4 align="left">Turing College projects:</h4>
 
+- Real_Fake_News_Classification (Machine learning/Deep learning oriented)
+
 - Mushroom_Classification (Machine learning/Deep learning oriented)
 
 - Toxic_Comment_Classification (Machine learning/Deep learning oriented)
